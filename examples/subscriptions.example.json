@@ -1,0 +1,9 @@
+[
+  {
+    "vendor": "Example AI Tool",
+    "owner": "team@example.com",
+    "renewalDate": "2026-08-01",
+    "monthlyBudget": 30,
+    "currency": "USD"
+  }
+]
